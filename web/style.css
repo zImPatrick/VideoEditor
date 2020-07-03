@@ -1,0 +1,14 @@
+body {
+    color: #eee;
+}
+#editingPanel {
+    display: none;
+}
+video {
+    height: 60vh;
+    margin: 0 auto;
+}
+
+.modal-content {
+    background: var(--dark);
+}

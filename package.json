@@ -1,0 +1,22 @@
+{
+  "name": "VideoEditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "open": "^7.0.4"
+  }
+}
